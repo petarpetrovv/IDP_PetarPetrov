@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: panqec
+Version: 0.1.6
+Summary: Simulation and visualization of quantum error correcting codes
+Home-page: http://github.com/panqec/panqec
+Author: Eric Huang
+License: MIT
+License-File: LICENSE
+Requires-Dist: numpy>=1.22.0
+Requires-Dist: matplotlib>=3.3.4
+Requires-Dist: scipy>=1.8.0
+Requires-Dist: pandas>=1.4.2
+Requires-Dist: tqdm>=4.59.0
+Requires-Dist: python-dotenv>=0.17.0
+Requires-Dist: psutil>=5.8.0
+Requires-Dist: click>=8.1.2
+Requires-Dist: Flask>=2.0.1
+Requires-Dist: ldpc~=0.1.45
+Requires-Dist: PyMatching~=2.0.1
